@@ -1,2 +1,2 @@
-# -Business_card
+# Business_card
 information about me
