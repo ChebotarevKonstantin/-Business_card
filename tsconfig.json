@@ -1,12 +1,19 @@
 {
   "compilerOptions": {
     "baseUrl": "src",
-    "target": "es5",
     "allowJs": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "target": "ESNext",
+    "jsx": "react-jsx",
     "module": "commonjs",
-    "jsx": "react"
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
   },
   "include": [
     "src",

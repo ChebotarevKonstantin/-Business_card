@@ -1,12 +1,14 @@
-import * as React from 'react';
 
 import ReactPng from './assets/images/react.png';
 import { StyledDiv } from './root.styles';
 
-export const Root = ({ name = "text" }: { name?: string }) => (
+type AppProps = {name?: string}
+
+export const App = ({ name = "text" }: AppProps) => (
     <div>
         <div>{name}</div>
-        <img src={ReactPng}/>
+
+                   <img src={ReactPng}/>
         <StyledDiv />
     </div>
 );
