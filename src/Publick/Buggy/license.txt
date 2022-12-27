@@ -1,0 +1,11 @@
+Model Information:
+* title:	Moon Buggy
+* source:	https://sketchfab.com/3d-models/moon-buggy-d9019e6bd2e34614842db512096248d9
+* author:	HansWurschd (https://sketchfab.com/HansWurschd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Moon Buggy" (https://sketchfab.com/3d-models/moon-buggy-d9019e6bd2e34614842db512096248d9) by HansWurschd (https://sketchfab.com/HansWurschd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
